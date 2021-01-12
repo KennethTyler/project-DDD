@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ddd-projeto",
+    "\\ddd-projeto\\ProjetoModeloDDD.Domain\\Interfaces",
+    "\\ddd-projeto\\ProjetoModeloDDD.Domain\\Interfaces\\Repositories",
+    "\\ddd-projeto\\ProjetoModeloDDD.Infra.Data",
+    "\\ddd-projeto\\ProjetoModeloDDD.Infra.Data\\bin",
+    "\\ddd-projeto\\ProjetoModeloDDD.Infra.Data\\bin\\Debug"
+  ],
+  "SelectedNode": "\\ddd-projeto\\packages",
+  "PreviewInSolutionExplorer": false
+}
