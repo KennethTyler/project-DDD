@@ -1,5 +1,4 @@
-# Desenvolvendo uma aplicação com C# usando DDD - Decola Dev Avanade 2021
+# Desenvolvimento de um aplicação em C# com o modelo DDD
 
-Atividade para o Digital Innovation One.
 
-<i>Classroom activit (Digital Innovation One)</i>
+
